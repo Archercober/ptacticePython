@@ -1,0 +1,3 @@
+import
+url='http://www.yopmail.com/zh/email-generator.php'
+print('1')
